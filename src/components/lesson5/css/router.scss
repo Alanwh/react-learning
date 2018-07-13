@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    list-style: none;
+    display: flex;
+    li {
+        flex:1;
+        background:rgb(14,136,235);
+        text-align: center;
+        a{
+            color: #fff;
+            line-height: 40px;
+            text-decoration: none;
+        }
+    }
+}

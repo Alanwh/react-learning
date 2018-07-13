@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    background: #369;
+    height: 120px;
+    line-height: 60px;
+    text-align: center;
+    color:#fff;
+    font-size: 16px;
+}
+.main{
+    background: #639;
+    height: 600px;
+    line-height: 60px;
+    color:#fff;
+    font-size: 16px;
+    text-align: center;
+}

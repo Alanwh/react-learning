@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #369;
+    color:#fff;
+}
+.content{
+    height: 600px;
+    line-height: 60px;
+    text-align: center;
+    background: #639;
+    color:#fff;
+}
+button{
+    border-color: #396;
+    background: #396;
+    color: #fff;
+    width: 80px;
+    line-height: 40px;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-left: 15px;
+    outline: none;
+    cursor: pointer;
+}
